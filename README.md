@@ -16,4 +16,4 @@ pip install -r requirements.txt
 
 ## Visualization
 
-To view the comparison of results under different window sizes, please visit the [GitHub Page](https://ucas-2.github.io/tlr2_pos_embed_ana/).
+To view the comparison of results under different window sizes, please visit the [GitHub Page](https://donalddai.github.io/tlr2_embed_ana/).
